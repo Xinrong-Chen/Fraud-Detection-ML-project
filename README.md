@@ -1,7 +1,7 @@
-# Capital One Data Science Challenge
+# Data Science Challenge
 
-Data Source: https://github.com/CapitalOneRecruiting/DS
-You will need 640MB(30MB for zip file and 610MB for unzipped) storage space for the dataset.
+
+Dataset needs 640MB(30MB for zip file and 610MB for unzipped) storage space.
 
 ### Contents
 -------
